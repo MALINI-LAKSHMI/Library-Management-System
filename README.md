@@ -11,12 +11,9 @@ This project is built as a Java web application and connected to a MySQL databas
 
 <img width="933" height="492" alt="image" src="https://github.com/user-attachments/assets/61d5e582-511f-4e33-a7c9-1487af0e01d7" />
 
-<img width="684" height="699" alt="Screenshot 2026-02-10 112110" src="https://github.com/user-attachments/assets/4e101e97-d192-461e-ad27-9aa8e7fd49c1" />
+<img width="684" height="636" alt="Screenshot 2026-02-10 112110" src="https://github.com/user-attachments/assets/c7111f93-17a1-46dc-a317-033848c7c030" />
 
-<img width="519" height="591" alt="Screenshot 2026-02-10 112132" src="https://github.com/user-attachments/assets/125bb2dc-3a90-4c45-9412-653d7e945e2e" />
-
-
-
+<img width="519" height="541" alt="Screenshot 2026-02-10 112132" src="https://github.com/user-attachments/assets/f70da8c8-798c-4ee2-b177-2b87f461c8f6" />
 
 
 
